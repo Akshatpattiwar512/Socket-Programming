@@ -1,6 +1,6 @@
 # Socket-Programming
 
-## Adding-two-number (Using TCP)
+## Adding-two-number (Using TCP protocol, C)
 
 This is a simple client-server TCP program for addition of two numbers
 
@@ -22,7 +22,7 @@ Running files :
 
 ./client
 
-## Multi-Chat-Program (Using TCP)
+## Multi-Chat-Program (Using TCP protocol, C)
 
 Multichat client server program using TCP protocol for multi users to chat using a single server. 
 
@@ -30,7 +30,7 @@ For connecting multiple files, run the client code on different terminals
 
 Server recieves the port id of the client getting connected and those getting disconnected
 
-## Network -Sniffer
+## Network -Sniffer (Using python)
 
 Program to get details to the data flowing through your router/ethernet. Any kind of data can be sniffed from the browser.
 
