@@ -1046,3 +1046,10 @@ Ethernet Frame:
 
 Ethernet Frame: 
          - Destination: 00:0C:29:7E:1C:93, Source: 00:50:56:EB:E5:E0, Protocol: 1544
+         
+Ethernet Frame: 
+         - Destination: FF:FF:FF:FF:FF:FF, Source: 00:50:56:C0:00:08, Protocol: 1544
+
+Ethernet Frame: 
+         - Destination: FF:FF:FF:FF:FF:FF, Source: 00:50:56:C0:00:08, Protocol: 1544
+
